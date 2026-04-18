@@ -6,8 +6,8 @@ An early LLM-powered translation system. It has been replaced by more robust ext
 
 ## Successor
 
-- [journal-extraction-suite](https://github.com/tzwkb/journal-extraction-suite) — End-to-end article extraction and translation
-- [journal-term-extractor](https://github.com/tzwkb/journal-term-extractor) — Terminology extraction component
+- [`journal-extraction-suite`](https://github.com/tzwkb/journal-extraction-suite) — End-to-end article extraction and translation
+- [`journal-term-extractor`](https://github.com/tzwkb/journal-term-extractor) — Terminology extraction component
 
 ## License
 
